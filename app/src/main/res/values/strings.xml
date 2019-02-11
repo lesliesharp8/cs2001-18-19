@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Learnado</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="upcoming_lessons">Upcoming Lessons</string>
+    <string name="messages">Messages</string>
+    <string name="changes_in_lessons">Changes in Lessons</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_email">Change Email</string>
+    <string name="language">Language</string>
+    <string name="help">Help</string>
 </resources>
