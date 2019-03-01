@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Learnado</string>
+    <string name="profilebackground">profileBackground</string>
+    <string name="profileavatar">profileAvatar</string>
+    <string name="profilename">profileName</string>
+    <string name="userlocation">userLocation</string>
+    <string name="proflename">profleName</string>
+    <string name="location">location</string>
+    <string name="viewswitch">viewSwitch</string>
+    <string name="viewswitch">viewSwitch</string>
 </resources>
