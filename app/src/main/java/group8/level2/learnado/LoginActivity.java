@@ -42,7 +42,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(LoginActivity.this, SignUp.class);
-                startActivity(intent);
+                startActivity(intent);// This is to enable the user to access the register page if they have no login.
             }
         });
 
@@ -54,7 +54,7 @@ public class LoginActivity extends AppCompatActivity {
 
         if(userName.equals("Admin") && userPassword.equals("1234")){
             Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-            startActivity(intent);
+            startActivity(intent); // This starts another activity which enables them to go to another page.
         }else{
 
             counter --;
