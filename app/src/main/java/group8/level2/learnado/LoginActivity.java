@@ -60,7 +60,7 @@ public class LoginActivity extends AppCompatActivity {
             counter --;
 
             if(counter == 0){
-                Login.setEnabled(false);
+                Login.setEnabled(false); //if statement regarding the login button
 
             }
 
