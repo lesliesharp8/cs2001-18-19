@@ -11,7 +11,6 @@ public class SettingsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_settings);
-        getActionBar().show();
         }
             public void onClick(View onClick) {
                 Intent i = new Intent(this, MainActivity.class);
