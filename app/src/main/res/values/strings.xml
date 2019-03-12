@@ -9,4 +9,5 @@
     <string name="language">Language</string>
     <string name="help">Help</string>
     <string name="payment_setup">Payment Setup</string>
+    <string name="timeBooking">Time</string>
 </resources>
