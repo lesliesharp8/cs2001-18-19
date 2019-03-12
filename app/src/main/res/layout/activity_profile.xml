@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".ProfileActivity">
 
-    <ImageView
+  <ImageView
         android:id="@+id/profileBackground"
         android:layout_width="394dp"
         android:layout_height="262dp"
@@ -67,4 +67,3 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView10" />
 
-</android.support.constraint.ConstraintLayout>
