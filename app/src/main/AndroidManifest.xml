@@ -10,13 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+        <activity android:name=".SignUp"></activity>
+        <activity android:name=".Booking" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".MainActivity">
+
+
         <activity android:name=".SignUp">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
 
         <activity android:name=".Booking">
             <intent-filter>
@@ -52,6 +61,7 @@
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
     </application>
 
 </manifest>
