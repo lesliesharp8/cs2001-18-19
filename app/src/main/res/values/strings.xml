@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">Learnado</string>
+    <string name="profilebackground">profileBackground</string>
+    <string name="profileavatar">profileAvatar</string>
+    <string name="profilename">profileName</string>
+    <string name="userlocation">userLocation</string>
+    <string name="proflename">profleName</string>
+    <string name="location">location</string>
+    <string name="viewswitch">viewSwitch</string>
+    <string name="viewswitch">viewSwitch</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -18,4 +26,5 @@
     <string name="payment_setup">Payment Setup</string>
     <string name="timeBooking">Time</string>
     <string name="back_to_main">Main Menu</string>
+
 </resources>
