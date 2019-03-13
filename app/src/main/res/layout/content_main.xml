@@ -205,6 +205,7 @@
                 app:srcCompat="@mipmap/ic_launcher"
                 tools:layout_editor_absoluteX="29dp"
                 tools:layout_editor_absoluteY="202dp" />
+
             <ImageView
                 android:id="@+id/imageView17"
                 android:layout_width="wrap_content"
@@ -212,6 +213,7 @@
                 app:srcCompat="@mipmap/ic_launcher"
                 tools:layout_editor_absoluteX="29dp"
                 tools:layout_editor_absoluteY="202dp" />
+
             <ImageView
                 android:id="@+id/imageView18"
                 android:layout_width="wrap_content"
@@ -219,6 +221,7 @@
                 app:srcCompat="@mipmap/ic_launcher"
                 tools:layout_editor_absoluteX="29dp"
                 tools:layout_editor_absoluteY="202dp" />
+
             <ImageView
                 android:id="@+id/imageView19"
                 android:layout_width="wrap_content"
@@ -226,6 +229,7 @@
                 app:srcCompat="@mipmap/ic_launcher"
                 tools:layout_editor_absoluteX="29dp"
                 tools:layout_editor_absoluteY="202dp" />
+
             <ImageView
                 android:id="@+id/imageView20"
                 android:layout_width="wrap_content"
@@ -233,6 +237,7 @@
                 app:srcCompat="@mipmap/ic_launcher"
                 tools:layout_editor_absoluteX="29dp"
                 tools:layout_editor_absoluteY="202dp" />
+
             <ImageView
                 android:id="@+id/imageView21"
                 android:layout_width="wrap_content"
@@ -240,6 +245,7 @@
                 app:srcCompat="@mipmap/ic_launcher"
                 tools:layout_editor_absoluteX="29dp"
                 tools:layout_editor_absoluteY="202dp" />
+
             <ImageView
                 android:id="@+id/imageView22"
                 android:layout_width="wrap_content"

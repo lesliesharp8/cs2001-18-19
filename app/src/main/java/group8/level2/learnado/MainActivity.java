@@ -1,6 +1,7 @@
 package group8.level2.learnado;
 
 
+import android.content.Intent;
 import android.widget.FrameLayout;
 import android.support.design.widget.NavigationView;
 import android.os.Bundle;
@@ -69,17 +70,22 @@ public class MainActivity extends AppCompatActivity
     public boolean onNavigationItemSelected(MenuItem item) {
         // Handle navigation view item clicks here.
         int id = item.getItemId();
-      
+        Intent intent;
         if (id == R.id.nav_profile) {
+            intent = new Intent(this, ProfileActivity.class);
+            startActivity(intent);
             // Handle the camera action
         } else if (id == R.id.nav_sessHistory) {
+            intent = new Intent(this, Booking.class);
+            startActivity(intent);
 
         } else if (id == R.id.nav_messages) {
 
         } else if (id == R.id.nav_payOptions) {
 
         } else if (id == R.id.nav_settings) {
-
+            intent = new Intent(this, SettingsActivity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_rateUs) {
 
         }
